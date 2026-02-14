@@ -18,21 +18,21 @@ This project focuses on understanding the **core architecture of AI agents** wit
 
 ## 🏗️ Agent Evolution
 
-### V1 — Rule-Based Agent
+### V1 - Rule-Based Agent
 - Regex-based math detection
 - Word counting tool
 - Action → execution pipeline
 
-### V2 — LLM-Only Agent
+### V2 - LLM-Only Agent
 - Prompt-based reasoning
 - Instruction-following responses
 
-### V3 — LLM + Tools
+### V3 - LLM + Tools
 - LLM selects tools
 - Structured action parsing
 - Dynamic tool execution
 
-### V4 — Memory Agent
+### V4 - Memory Agent
 - Stores conversation history
 - Context-aware responses
 - Sliding window memory
