@@ -45,6 +45,4 @@ This project focuses on understanding the **core architecture of AI agents** wit
 git clone https://github.com/YOUR_USERNAME/study-assistant-ai-agent.git
 cd study-assistant-ai-agent
 pip install -r requirements.txt
-
----
-
+```
