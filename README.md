@@ -42,7 +42,7 @@ This project focuses on understanding the **core architecture of AI agents** wit
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/study-assistant-ai-agent.git
+git clone https://github.com/sahithimeneni06/AgentFlow-AI.git
 cd study-assistant-ai-agent
 pip install -r requirements.txt
 ```
